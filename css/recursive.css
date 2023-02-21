@@ -1,0 +1,21 @@
+.left-side {
+  float: left;
+  width: 20%; /* Largeur à ajuster en fonction de vos besoins */
+  border : solid grey 1px;
+  border-radius: 3px;
+  height:80%;
+}
+
+.right-side {
+  float: right;
+  width: 79%; /* Largeur à ajuster en fonction de vos besoins */
+  border : solid grey 1px; 
+  border-radius: 3px;
+  width:79%;
+  height:80%;
+}
+
+.sub-folders {
+  display: none;
+  transition: all 0.5s ease-in-out;
+}
